@@ -1,0 +1,30 @@
+/*Selector{
+	property:value;
+}*/
+body {
+  background-image: url('1.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+h2 ,p{
+	border: 5px dotted red;
+	color: red;
+	text-align:center;
+	cursor: pointer;
+}
+p{ line-height:20px;
+	color:blue;
+}
+li{
+	list-style: none;
+	display:inline-block;
+}
+.abc{
+	color: blue;
+}
+#div1{
+	background: rgb(0,0,255,0.2);
+
+
+}
